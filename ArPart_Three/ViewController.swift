@@ -10,7 +10,7 @@ import UIKit
 import ARKit
 
 class ViewController: UIViewController , ARSCNViewDelegate{
-
+//ankushhhhhh
     @IBOutlet var myScenView: ARSCNView!
     let configuration = ARWorldTrackingConfiguration()
     override func viewDidLoad() {
